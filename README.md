@@ -1,5 +1,5 @@
 Hospital Emergency Room Analysis (SQL Server + Excel)
-Status: SQL analysis complete. Excel dashboard in progress.
+Status: SQL analysis and Excel dashboard complete. Power BI version in progress.
 Goal
 Understand patient flow in a hospital emergency room: which departments are busiest, where patients wait longest, and whether longer waits go with lower satisfaction.
 Dataset
